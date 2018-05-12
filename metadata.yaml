@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34439
     wikipedia: http://en.wikipedia.org/wiki/Cale_Young_Rice
 description: Giorgione.--Arduin.--O-umè's gods.--The immortal lure.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36609#The-Immortal-Lure
 gutenberg_issued: '2011-07-04'
 gutenberg_type: Text
 identifiers:
